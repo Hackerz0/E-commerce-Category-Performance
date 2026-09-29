@@ -101,7 +101,7 @@ Average Review Score | 4.08
 File | Description
 --- | ---
 `E-Commerce Category Performance.pbix` | Complete Power BI analysis and interactive dashboard
-`Project_2.sql` | SQL Server inspection, validation, view creation, and analysis queries
+`category_performance_analysis.sql` | SQL Server inspection, validation, view creation, and analysis queries
 `dashboard.png` | Screenshot of the completed Power BI dashboard
 `README.md` | Project documentation
 
